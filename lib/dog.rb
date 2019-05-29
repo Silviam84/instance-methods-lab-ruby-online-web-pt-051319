@@ -1,2 +1,2 @@
 def dog => bark
-(  #)dog = 
+  #dog = (bark)
